@@ -1,0 +1,2578 @@
+{
+  "nodes": [
+    {
+      "id": "sunday",
+      "label": "sunday",
+      "type": "circle",
+      "size": 40,
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#333",
+        "lineWidth": 1,
+        "fill": "#fff"
+      },
+      "tjType": "wikiLinks",
+      "cluster": "sunday",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 507.6178117462937,
+      "y": 257.8316023080153,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "Sundae",
+      "label": "Sundae",
+      "type": "circle",
+      "tjType": "wikiLinks",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#fff",
+        "lineWidth": 1,
+        "fill": "#83b100"
+      },
+      "cluster": "sunday",
+      "size": "20",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 475.1324770165359,
+      "y": 167.39338345019297,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "Day",
+      "label": "Day",
+      "type": "circle",
+      "tjType": "wikiLinks",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#fff",
+        "lineWidth": 1,
+        "fill": "#83b100"
+      },
+      "cluster": "sunday",
+      "size": "20",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 555.6995787657593,
+      "y": 175.74653325089935,
+      "layoutOrder": 0,
+      "description": {
+        "content": "Generally, a day is roughly the time of one rotation of the Earth (about 24 hours) or one rotation of other large astronomical objects. In everyday life, the word \"day\" often refers to a solar day, which is the length between two solar noons or times the Sun reaches the highest point. The word \"day\" may also refer to daytime, a time period when the location receives direct and indirect sunlight. On Earth, as a location passes through its day, it experiences morning, noon, afternoon, evening, and night. The effect of a day is vital to many life processes, which is called the circadian rhythm.\nDays can be organized into calendars as dates, usually into months and years. Most calendars' arrangement of dates use either or both the Sun's (solar calendar) or the Moon's (lunar calendar) relative position in the sky. The start of a day is commonly accepted as roughly the time of the middle of the night or midnight, written as 0:00 or 12 am in 12- or 24-hour clock. Because the time of midnight varies between locations, time zones are set up to facilitate the use of a uniform standard time.\nIn specific applications, the definition of a day are slightly modified, such as in the SI day (exactly 86,400 seconds) used for computers and standards keeping, local mean time accounting of the Earth's natural fluctuation of a solar day, and stellar day and sidereal day (using the celestial sphere) used for astronomy. In some countries, a day may be set starting earlier or later via the daylight saving time, making it possible to have a 23- or 25-hour civil day.\n\n",
+        "marked": "Generally, a <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> is roughly the <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span> of one <span class=\"marked-up\"><span class='marked-up__highlights'>rotation</span><span class='tags tags--noun'>NOUN</span></span> of the <span class=\"marked-up\"><span class='marked-up__highlights'>Earth</span><span class='tags tags--propn'>PROPN</span></span>( about 24 <span class=\"marked-up\"><span class='marked-up__highlights'>hours</span><span class='tags tags--noun'>NOUN</span></span>) or one <span class=\"marked-up\"><span class='marked-up__highlights'>rotation</span><span class='tags tags--noun'>NOUN</span></span> of other large astronomical <span class=\"marked-up\"><span class='marked-up__highlights'>objects</span><span class='tags tags--noun'>NOUN</span></span>. In everyday <span class=\"marked-up\"><span class='marked-up__highlights'>life</span><span class='tags tags--noun'>NOUN</span></span>, the <span class=\"marked-up\"><span class='marked-up__highlights'>word</span><span class='tags tags--noun'>NOUN</span></span> \" <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> \" often refers to a solar <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span>, which is the <span class=\"marked-up\"><span class='marked-up__highlights'>length</span><span class='tags tags--noun'>NOUN</span></span> between two solar <span class=\"marked-up\"><span class='marked-up__highlights'>noons</span><span class='tags tags--noun'>NOUN</span></span> or <span class=\"marked-up\"><span class='marked-up__highlights'>times</span><span class='tags tags--noun'>NOUN</span></span> the <span class=\"marked-up\"><span class='marked-up__highlights'>Sun</span><span class='tags tags--propn'>PROPN</span></span> reaches the highest <span class=\"marked-up\"><span class='marked-up__highlights'>point</span><span class='tags tags--noun'>NOUN</span></span>. The <span class=\"marked-up\"><span class='marked-up__highlights'>word</span><span class='tags tags--noun'>NOUN</span></span> \" <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> \" may also refer to <span class=\"marked-up\"><span class='marked-up__highlights'>daytime</span><span class='tags tags--noun'>NOUN</span></span>, a <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>period</span><span class='tags tags--noun'>NOUN</span></span> when the <span class=\"marked-up\"><span class='marked-up__highlights'>location</span><span class='tags tags--noun'>NOUN</span></span> receives direct and indirect <span class=\"marked-up\"><span class='marked-up__highlights'>sunlight</span><span class='tags tags--noun'>NOUN</span></span>. On <span class=\"marked-up\"><span class='marked-up__highlights'>Earth</span><span class='tags tags--propn'>PROPN</span></span>, as a <span class=\"marked-up\"><span class='marked-up__highlights'>location</span><span class='tags tags--noun'>NOUN</span></span> passes through its <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span>, it experiences <span class=\"marked-up\"><span class='marked-up__highlights'>morning</span><span class='tags tags--noun'>NOUN</span></span>, <span class=\"marked-up\"><span class='marked-up__highlights'>noon</span><span class='tags tags--noun'>NOUN</span></span>, <span class=\"marked-up\"><span class='marked-up__highlights'>afternoon</span><span class='tags tags--noun'>NOUN</span></span>, <span class=\"marked-up\"><span class='marked-up__highlights'>evening</span><span class='tags tags--noun'>NOUN</span></span>, and <span class=\"marked-up\"><span class='marked-up__highlights'>night</span><span class='tags tags--noun'>NOUN</span></span>. The <span class=\"marked-up\"><span class='marked-up__highlights'>effect</span><span class='tags tags--noun'>NOUN</span></span> of a <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> is vital to many <span class=\"marked-up\"><span class='marked-up__highlights'>life</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>processes</span><span class='tags tags--noun'>NOUN</span></span>, which is called the circadian <span class=\"marked-up\"><span class='marked-up__highlights'>rhythm</span><span class='tags tags--noun'>NOUN</span></span>. \n <span class=\"marked-up\"><span class='marked-up__highlights'>Days</span><span class='tags tags--propn'>PROPN</span></span> can be organized into <span class=\"marked-up\"><span class='marked-up__highlights'>calendars</span><span class='tags tags--noun'>NOUN</span></span> as <span class=\"marked-up\"><span class='marked-up__highlights'>dates</span><span class='tags tags--noun'>NOUN</span></span>, usually into <span class=\"marked-up\"><span class='marked-up__highlights'>months</span><span class='tags tags--noun'>NOUN</span></span> and <span class=\"marked-up\"><span class='marked-up__highlights'>years</span><span class='tags tags--noun'>NOUN</span></span>. Most <span class=\"marked-up\"><span class='marked-up__highlights'>calendars</span><span class='tags tags--noun'>NOUN</span></span> ' <span class=\"marked-up\"><span class='marked-up__highlights'>arrangement</span><span class='tags tags--noun'>NOUN</span></span> of <span class=\"marked-up\"><span class='marked-up__highlights'>dates</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>use</span><span class='tags tags--noun'>NOUN</span></span> either or both the <span class=\"marked-up\"><span class='marked-up__highlights'>Sun</span><span class='tags tags--propn'>PROPN</span></span> 's( solar <span class=\"marked-up\"><span class='marked-up__highlights'>calendar</span><span class='tags tags--noun'>NOUN</span></span>) or the <span class=\"marked-up\"><span class='marked-up__highlights'>Moon</span><span class='tags tags--propn'>PROPN</span></span> 's( lunar <span class=\"marked-up\"><span class='marked-up__highlights'>calendar</span><span class='tags tags--noun'>NOUN</span></span>) relative <span class=\"marked-up\"><span class='marked-up__highlights'>position</span><span class='tags tags--noun'>NOUN</span></span> in the <span class=\"marked-up\"><span class='marked-up__highlights'>sky</span><span class='tags tags--noun'>NOUN</span></span>. The <span class=\"marked-up\"><span class='marked-up__highlights'>start</span><span class='tags tags--noun'>NOUN</span></span> of a <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> is commonly accepted as roughly the <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span> of the <span class=\"marked-up\"><span class='marked-up__highlights'>middle</span><span class='tags tags--noun'>NOUN</span></span> of the <span class=\"marked-up\"><span class='marked-up__highlights'>night</span><span class='tags tags--noun'>NOUN</span></span> or <span class=\"marked-up\"><span class='marked-up__highlights'>midnight</span><span class='tags tags--noun'>NOUN</span></span>, written as 0:00 or 12 am in 12 - or 24 - <span class=\"marked-up\"><span class='marked-up__highlights'>hour</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>clock</span><span class='tags tags--noun'>NOUN</span></span>. Because the <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span> of <span class=\"marked-up\"><span class='marked-up__highlights'>midnight</span><span class='tags tags--noun'>NOUN</span></span> varies between <span class=\"marked-up\"><span class='marked-up__highlights'>locations</span><span class='tags tags--noun'>NOUN</span></span>, <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>zones</span><span class='tags tags--noun'>NOUN</span></span> are set up to facilitate the <span class=\"marked-up\"><span class='marked-up__highlights'>use</span><span class='tags tags--noun'>NOUN</span></span> of a <span class=\"marked-up\"><span class='marked-up__highlights'>uniform</span><span class='tags tags--noun'>NOUN</span></span> standard <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span>. \n In specific <span class=\"marked-up\"><span class='marked-up__highlights'>applications</span><span class='tags tags--noun'>NOUN</span></span>, the <span class=\"marked-up\"><span class='marked-up__highlights'>definition</span><span class='tags tags--noun'>NOUN</span></span> of a <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> are slightly modified, such as in the <span class=\"marked-up\"><span class='marked-up__highlights'>SI</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span>( exactly 86,400 <span class=\"marked-up\"><span class='marked-up__highlights'>seconds</span><span class='tags tags--noun'>NOUN</span></span>) used for <span class=\"marked-up\"><span class='marked-up__highlights'>computers</span><span class='tags tags--noun'>NOUN</span></span> and <span class=\"marked-up\"><span class='marked-up__highlights'>standards</span><span class='tags tags--noun'>NOUN</span></span> keeping, local <span class=\"marked-up\"><span class='marked-up__highlights'>mean</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>accounting</span><span class='tags tags--noun'>NOUN</span></span> of the <span class=\"marked-up\"><span class='marked-up__highlights'>Earth</span><span class='tags tags--propn'>PROPN</span></span> 's natural <span class=\"marked-up\"><span class='marked-up__highlights'>fluctuation</span><span class='tags tags--noun'>NOUN</span></span> of a solar <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span>, and stellar <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> and sidereal <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span>( using the celestial <span class=\"marked-up\"><span class='marked-up__highlights'>sphere</span><span class='tags tags--noun'>NOUN</span></span>) used for <span class=\"marked-up\"><span class='marked-up__highlights'>astronomy</span><span class='tags tags--noun'>NOUN</span></span>. In some <span class=\"marked-up\"><span class='marked-up__highlights'>countries</span><span class='tags tags--noun'>NOUN</span></span>, a <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span> may be set starting earlier or later via the <span class=\"marked-up\"><span class='marked-up__highlights'>daylight</span><span class='tags tags--noun'>NOUN</span></span> saving <span class=\"marked-up\"><span class='marked-up__highlights'>time</span><span class='tags tags--noun'>NOUN</span></span>, making it possible to have a 23 - or 25 - <span class=\"marked-up\"><span class='marked-up__highlights'>hour</span><span class='tags tags--noun'>NOUN</span></span> civil <span class=\"marked-up\"><span class='marked-up__highlights'>day</span><span class='tags tags--noun'>NOUN</span></span>. \n\n ",
+        "detailed": [
+          { "word": "day", "frequency": 14 },
+          { "word": "time", "frequency": 8 },
+          { "word": "solar", "frequency": 4 },
+          { "word": "earth", "frequency": 3 },
+          { "word": "'s", "frequency": 3 },
+          { "word": "roughly", "frequency": 2 },
+          { "word": "rotation", "frequency": 2 },
+          { "word": "life", "frequency": 2 },
+          { "word": "word", "frequency": 2 },
+          { "word": "sun", "frequency": 2 },
+          { "word": "location", "frequency": 2 },
+          { "word": "night", "frequency": 2 },
+          { "word": "calendars", "frequency": 2 },
+          { "word": "dates", "frequency": 2 },
+          { "word": "use", "frequency": 2 },
+          { "word": "calendar", "frequency": 2 },
+          { "word": "midnight", "frequency": 2 },
+          { "word": "hour", "frequency": 2 },
+          { "word": "set", "frequency": 2 }
+        ],
+        "sentences": [
+          {
+            "sentiment": 0,
+            "text": "Generally, a day is roughly the time of one rotation of the Earth (about 24 hours) or one rotation of other large astronomical objects."
+          },
+          {
+            "sentiment": 0.2,
+            "text": "In everyday life, the word \"day\" often refers to a solar day, which is the length between two solar noons or times the Sun reaches the highest point."
+          },
+          {
+            "sentiment": 0.5,
+            "text": "The word \"day\" may also refer to daytime, a time period when the location receives direct and indirect sunlight."
+          },
+          {
+            "sentiment": 0,
+            "text": "On Earth, as a location passes through its day, it experiences morning, noon, afternoon, evening, and night."
+          },
+          {
+            "sentiment": 0,
+            "text": "The effect of a day is vital to many life processes, which is called the circadian rhythm."
+          },
+          {
+            "sentiment": 0,
+            "text": "Days can be organized into calendars as dates, usually into months and years."
+          },
+          {
+            "sentiment": 0,
+            "text": "Most calendars' arrangement of dates use either or both the Sun's (solar calendar) or the Moon's (lunar calendar) relative position in the sky."
+          },
+          {
+            "sentiment": 0.2,
+            "text": "The start of a day is commonly accepted as roughly the time of the middle of the night or midnight, written as 0:00 or 12 am in 12- or 24-hour clock."
+          },
+          {
+            "sentiment": 0,
+            "text": "Because the time of midnight varies between locations, time zones are set up to facilitate the use of a uniform standard time."
+          },
+          {
+            "sentiment": 0.2,
+            "text": "In specific applications, the definition of a day are slightly modified, such as in the SI day (exactly 86,400 seconds) used for computers and standards keeping, local mean time accounting of the Earth's natural fluctuation of a solar day, and stellar day and sidereal day (using the celestial sphere) used for astronomy."
+          },
+          {
+            "sentiment": 0.5,
+            "text": "In some countries, a day may be set starting earlier or later via the daylight saving time, making it possible to have a 23- or 25-hour civil day."
+          },
+          { "sentiment": 0, "text": "" }
+        ],
+        "entities": [
+          { "entity": "Earth", "type": "PROPN" },
+          { "entity": "Sun", "type": "PROPN" },
+          { "entity": "Moon", "type": "PROPN" },
+          { "entity": "time", "type": "NOUN" },
+          { "entity": "rotation", "type": "NOUN" },
+          { "entity": "objects", "type": "NOUN" },
+          { "entity": "life", "type": "NOUN" },
+          { "entity": "word", "type": "NOUN" },
+          { "entity": "length", "type": "NOUN" },
+          { "entity": "noons", "type": "NOUN" },
+          { "entity": "times", "type": "NOUN" },
+          { "entity": "point", "type": "NOUN" },
+          { "entity": "daytime", "type": "NOUN" },
+          { "entity": "period", "type": "NOUN" },
+          { "entity": "location", "type": "NOUN" },
+          { "entity": "sunlight", "type": "NOUN" },
+          { "entity": "effect", "type": "NOUN" },
+          { "entity": "processes", "type": "NOUN" },
+          { "entity": "rhythm", "type": "NOUN" },
+          { "entity": "calendars", "type": "NOUN" },
+          { "entity": "dates", "type": "NOUN" },
+          { "entity": "arrangement", "type": "NOUN" },
+          { "entity": "use", "type": "NOUN" },
+          { "entity": "calendar", "type": "NOUN" },
+          { "entity": "position", "type": "NOUN" },
+          { "entity": "sky", "type": "NOUN" },
+          { "entity": "start", "type": "NOUN" },
+          { "entity": "middle", "type": "NOUN" },
+          { "entity": "clock", "type": "NOUN" },
+          { "entity": "locations", "type": "NOUN" },
+          { "entity": "zones", "type": "NOUN" },
+          { "entity": "uniform", "type": "NOUN" },
+          { "entity": "applications", "type": "NOUN" },
+          { "entity": "definition", "type": "NOUN" },
+          { "entity": "SI", "type": "NOUN" },
+          { "entity": "computers", "type": "NOUN" },
+          { "entity": "standards", "type": "NOUN" },
+          { "entity": "mean", "type": "NOUN" },
+          { "entity": "accounting", "type": "NOUN" },
+          { "entity": "fluctuation", "type": "NOUN" },
+          { "entity": "sphere", "type": "NOUN" },
+          { "entity": "astronomy", "type": "NOUN" },
+          { "entity": "countries", "type": "NOUN" },
+          { "entity": "daylight", "type": "NOUN" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "one", "type": "CARDINAL" },
+          { "entity": "about 24 hours", "type": "DURATION" },
+          { "entity": "one", "type": "CARDINAL" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "two", "type": "CARDINAL" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "morning", "type": "TIME" },
+          { "entity": "noon", "type": "TIME" },
+          { "entity": "afternoon", "type": "TIME" },
+          { "entity": "evening", "type": "TIME" },
+          { "entity": "night", "type": "TIME" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "Days", "type": "DURATION" },
+          { "entity": "months", "type": "DURATION" },
+          { "entity": "years", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "night", "type": "TIME" },
+          { "entity": "midnight", "type": "TIME" },
+          { "entity": "12 am", "type": "TIME" },
+          { "entity": "12", "type": "CARDINAL" },
+          { "entity": "24-hour", "type": "DURATION" },
+          { "entity": "midnight", "type": "TIME" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "86,400 seconds", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" },
+          { "entity": "23", "type": "CARDINAL" },
+          { "entity": "25-hour", "type": "DURATION" },
+          { "entity": "day", "type": "DURATION" }
+        ]
+      },
+      "mass": 2
+    },
+    {
+      "id": "Week",
+      "label": "Week",
+      "type": "circle",
+      "tjType": "wikiLinks",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#fff",
+        "lineWidth": 1,
+        "fill": "#83b100"
+      },
+      "cluster": "sunday",
+      "size": "20",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 422.7113983379048,
+      "y": 229.84962772932317,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "Saturday",
+      "label": "Saturday",
+      "type": "circle",
+      "tjType": "wikiLinks",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#fff",
+        "lineWidth": 1,
+        "fill": "#83b100"
+      },
+      "cluster": "sunday",
+      "size": "20",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 573.7035337923664,
+      "y": 322.62643661858584,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "Monday",
+      "label": "Monday",
+      "type": "circle",
+      "tjType": "wikiLinks",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#fff",
+        "lineWidth": 1,
+        "fill": "#83b100"
+      },
+      "cluster": "sunday",
+      "size": "20",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 599.0981320767652,
+      "y": 244.76075126580474,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "ISO 8601",
+      "label": "ISO 8601",
+      "type": "circle",
+      "tjType": "wikiLinks",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#fff",
+        "lineWidth": 1,
+        "fill": "#83b100"
+      },
+      "cluster": "sunday",
+      "size": "20",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 428.62966680323467,
+      "y": 311.4078992647376,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "Máni",
+      "label": "Máni",
+      "type": "circle",
+      "tjType": "wikiLinks",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#fff",
+        "lineWidth": 1,
+        "fill": "#83b100"
+      },
+      "cluster": "sunday",
+      "size": "20",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "depth": 0,
+      "x": 498.07872052753885,
+      "y": 352.92692866285313,
+      "layoutOrder": 0,
+      "description": {
+        "content": "Máni (Old Norse: [ˈmɑːne]; \"Moon\") is the Moon personified in Germanic mythology. Máni, personified, is attested in the Poetic Edda, compiled in the 13th century from earlier traditional sources, and the Prose Edda, written in the 13th century by Snorri Sturluson. Both sources state that he is the brother of the personified sun, Sól, and the son of Mundilfari, while the Prose Edda adds that he is followed by the children Hjúki and Bil through the heavens. As a proper noun, Máni appears throughout Old Norse literature. Scholars have proposed theories about Máni's potential connection to the Northern European notion of the Man in the Moon, and a potentially otherwise unattested story regarding Máni through skaldic kennings.",
+        "marked": "<span class=\"marked-up\"><span class='marked-up__highlights'>Máni</span><span class='tags tags--propn'>PROPN</span></span>( Old <span class=\"marked-up\"><span class='marked-up__highlights'>Norse</span><span class='tags tags--propn'>PROPN</span></span> : [ ˈ <span class=\"marked-up\"><span class='marked-up__highlights'>m</span><span class='tags tags--noun'>NOUN</span></span> ɑː <span class=\"marked-up\"><span class='marked-up__highlights'>ne</span><span class='tags tags--noun'>NOUN</span></span> ] ; \" <span class=\"marked-up\"><span class='marked-up__highlights'>Moon</span><span class='tags tags--propn'>PROPN</span></span> \") is the <span class=\"marked-up\"><span class='marked-up__highlights'>Moon</span><span class='tags tags--propn'>PROPN</span></span> personified in Germanic <span class=\"marked-up\"><span class='marked-up__highlights'>mythology</span><span class='tags tags--noun'>NOUN</span></span>. <span class=\"marked-up\"><span class='marked-up__highlights'>Máni</span><span class='tags tags--propn'>PROPN</span></span>, personified, is attested in the Poetic <span class=\"marked-up\"><span class='marked-up__highlights'>Edda</span><span class='tags tags--propn'>PROPN</span></span>, compiled in the 13th <span class=\"marked-up\"><span class='marked-up__highlights'>century</span><span class='tags tags--noun'>NOUN</span></span> from earlier traditional <span class=\"marked-up\"><span class='marked-up__highlights'>sources</span><span class='tags tags--noun'>NOUN</span></span>, and the <span class=\"marked-up\"><span class='marked-up__highlights'>Prose</span><span class='tags tags--propn'>PROPN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>Edda</span><span class='tags tags--propn'>PROPN</span></span>, written in the 13th <span class=\"marked-up\"><span class='marked-up__highlights'>century</span><span class='tags tags--noun'>NOUN</span></span> by <span class=\"marked-up\"><span class='marked-up__highlights'>Snorri</span><span class='tags tags--propn'>PROPN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>Sturluson</span><span class='tags tags--propn'>PROPN</span></span>. Both <span class=\"marked-up\"><span class='marked-up__highlights'>sources</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>state</span><span class='tags tags--noun'>NOUN</span></span> that he is the <span class=\"marked-up\"><span class='marked-up__highlights'>brother</span><span class='tags tags--noun'>NOUN</span></span> of the personified <span class=\"marked-up\"><span class='marked-up__highlights'>sun</span><span class='tags tags--noun'>NOUN</span></span>, <span class=\"marked-up\"><span class='marked-up__highlights'>Sól</span><span class='tags tags--propn'>PROPN</span></span>, and the <span class=\"marked-up\"><span class='marked-up__highlights'>son</span><span class='tags tags--noun'>NOUN</span></span> of <span class=\"marked-up\"><span class='marked-up__highlights'>Mundilfari</span><span class='tags tags--propn'>PROPN</span></span>, while the <span class=\"marked-up\"><span class='marked-up__highlights'>Prose</span><span class='tags tags--propn'>PROPN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>Edda</span><span class='tags tags--propn'>PROPN</span></span> adds that he is followed by the <span class=\"marked-up\"><span class='marked-up__highlights'>children</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>Hjúki</span><span class='tags tags--propn'>PROPN</span></span> and <span class=\"marked-up\"><span class='marked-up__highlights'>Bil</span><span class='tags tags--propn'>PROPN</span></span> through the <span class=\"marked-up\"><span class='marked-up__highlights'>heavens</span><span class='tags tags--noun'>NOUN</span></span>. As a proper <span class=\"marked-up\"><span class='marked-up__highlights'>noun</span><span class='tags tags--noun'>NOUN</span></span>, <span class=\"marked-up\"><span class='marked-up__highlights'>Máni</span><span class='tags tags--propn'>PROPN</span></span> appears throughout Old <span class=\"marked-up\"><span class='marked-up__highlights'>Norse</span><span class='tags tags--propn'>PROPN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>literature</span><span class='tags tags--noun'>NOUN</span></span>. <span class=\"marked-up\"><span class='marked-up__highlights'>Scholars</span><span class='tags tags--propn'>PROPN</span></span> have proposed <span class=\"marked-up\"><span class='marked-up__highlights'>theories</span><span class='tags tags--noun'>NOUN</span></span> about <span class=\"marked-up\"><span class='marked-up__highlights'>Máni</span><span class='tags tags--propn'>PROPN</span></span> 's potential <span class=\"marked-up\"><span class='marked-up__highlights'>connection</span><span class='tags tags--noun'>NOUN</span></span> to the <span class=\"marked-up\"><span class='marked-up__highlights'>Northern</span><span class='tags tags--propn'>PROPN</span></span> European <span class=\"marked-up\"><span class='marked-up__highlights'>notion</span><span class='tags tags--noun'>NOUN</span></span> of the <span class=\"marked-up\"><span class='marked-up__highlights'>Man</span><span class='tags tags--propn'>PROPN</span></span> in the <span class=\"marked-up\"><span class='marked-up__highlights'>Moon</span><span class='tags tags--propn'>PROPN</span></span>, and a potentially otherwise unattested <span class=\"marked-up\"><span class='marked-up__highlights'>story</span><span class='tags tags--noun'>NOUN</span></span> regarding <span class=\"marked-up\"><span class='marked-up__highlights'>Máni</span><span class='tags tags--propn'>PROPN</span></span> through <span class=\"marked-up\"><span class='marked-up__highlights'>skaldic</span><span class='tags tags--noun'>NOUN</span></span> <span class=\"marked-up\"><span class='marked-up__highlights'>kennings</span><span class='tags tags--noun'>NOUN</span></span>. ",
+        "detailed": [
+          { "word": "máni", "frequency": 5 },
+          { "word": "moon", "frequency": 3 },
+          { "word": "personified", "frequency": 3 },
+          { "word": "edda", "frequency": 3 },
+          { "word": "old", "frequency": 2 },
+          { "word": "norse", "frequency": 2 },
+          { "word": "century", "frequency": 2 },
+          { "word": "sources", "frequency": 2 },
+          { "word": "prose", "frequency": 2 }
+        ],
+        "sentences": [
+          {
+            "sentiment": 0,
+            "text": "Máni (Old Norse: [ˈmɑːne]; \"Moon\") is the Moon personified in Germanic mythology."
+          },
+          {
+            "sentiment": 0,
+            "text": "Máni, personified, is attested in the Poetic Edda, compiled in the 13th century from earlier traditional sources, and the Prose Edda, written in the 13th century by Snorri Sturluson."
+          },
+          {
+            "sentiment": 0,
+            "text": "Both sources state that he is the brother of the personified sun, Sól, and the son of Mundilfari, while the Prose Edda adds that he is followed by the children Hjúki and Bil through the heavens."
+          },
+          {
+            "sentiment": 0.531,
+            "text": "As a proper noun, Máni appears throughout Old Norse literature."
+          },
+          {
+            "sentiment": 0,
+            "text": "Scholars have proposed theories about Máni's potential connection to the Northern European notion of the Man in the Moon, and a potentially otherwise unattested story regarding Máni through skaldic kennings."
+          }
+        ],
+        "entities": [
+          { "entity": "Máni", "type": "PROPN" },
+          { "entity": "Norse", "type": "PROPN" },
+          { "entity": "Moon", "type": "PROPN" },
+          { "entity": "Edda", "type": "PROPN" },
+          { "entity": "Prose", "type": "PROPN" },
+          { "entity": "Snorri", "type": "PROPN" },
+          { "entity": "Sturluson", "type": "PROPN" },
+          { "entity": "Sól", "type": "PROPN" },
+          { "entity": "Mundilfari", "type": "PROPN" },
+          { "entity": "Hjúki", "type": "PROPN" },
+          { "entity": "Bil", "type": "PROPN" },
+          { "entity": "Scholars", "type": "PROPN" },
+          { "entity": "Northern", "type": "PROPN" },
+          { "entity": "Man", "type": "PROPN" },
+          { "entity": "m", "type": "NOUN" },
+          { "entity": "ne", "type": "NOUN" },
+          { "entity": "mythology", "type": "NOUN" },
+          { "entity": "sources", "type": "NOUN" },
+          { "entity": "state", "type": "NOUN" },
+          { "entity": "brother", "type": "NOUN" },
+          { "entity": "sun", "type": "NOUN" },
+          { "entity": "son", "type": "NOUN" },
+          { "entity": "children", "type": "NOUN" },
+          { "entity": "heavens", "type": "NOUN" },
+          { "entity": "noun", "type": "NOUN" },
+          { "entity": "literature", "type": "NOUN" },
+          { "entity": "theories", "type": "NOUN" },
+          { "entity": "connection", "type": "NOUN" },
+          { "entity": "notion", "type": "NOUN" },
+          { "entity": "story", "type": "NOUN" },
+          { "entity": "skaldic", "type": "NOUN" },
+          { "entity": "kennings", "type": "NOUN" },
+          { "entity": "13th century", "type": "DATE" },
+          { "entity": "13th century", "type": "DATE" }
+        ]
+      },
+      "mass": 2
+    },
+    {
+      "id": "YH39WQyLmzM",
+      "label": "NCR Days - Web Serie...",
+      "description": "https://www.youtube.com/embed/YH39WQyLmzM",
+      "tjType": "note-video",
+      "tjData": {
+        "content": "https://www.youtube.com/embed/YH39WQyLmzM",
+        "url": "https://www.youtube.com/embed/YH39WQyLmzM"
+      },
+      "size": 30,
+      "type": "circle",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#888",
+        "lineWidth": 1,
+        "fill": "#cf0433"
+      },
+      "tjNodeState": "note-video",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "x": 85.25584255246727,
+      "y": 207.20127593696745,
+      "depth": 0,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "nischay.s.ed",
+      "label": "nischay.s.ed",
+      "description": "nischay.s.ed",
+      "tjType": "user",
+      "size": 50,
+      "type": "circle",
+      "tjNodeState": "user",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#010148",
+        "lineWidth": 1
+      },
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "x": 136.0310930293353,
+      "y": 153.6271749040145,
+      "depth": 0,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "63329ce499d9023da452c0b5",
+      "label": "Steven Universe Cafe",
+      "description": "<iframe\n        title=\"Gateway Of India - Mumbai\"\n        frameborder=\"0\"\n        allowfullscreen\n        mozallowfullscreen=\"true\"\n        webkitallowfullscreen=\"true\"\n        allow=\"autoplay;fullscreen;xr-spatial-tracking\"\n        xr-spatial-tracking execution-while-out-of-viewport\n        execution-while-not-rendered\n        web-share \n        src=\"https://sketchfab.com/models/778148b129d4486db93208547702ec6e/embed\"></iframe>",
+      "tjType": "note-3d",
+      "tjData": {
+        "content": "<iframe\n        title=\"Gateway Of India - Mumbai\"\n        frameborder=\"0\"\n        allowfullscreen\n        mozallowfullscreen=\"true\"\n        webkitallowfullscreen=\"true\"\n        allow=\"autoplay;fullscreen;xr-spatial-tracking\"\n        xr-spatial-tracking execution-while-out-of-viewport\n        execution-while-not-rendered\n        web-share \n        src=\"https://sketchfab.com/models/778148b129d4486db93208547702ec6e/embed\"></iframe>",
+        "url": "https://sketchfab.com/models/778148b129d4486db93208547702ec6e"
+      },
+      "size": 30,
+      "type": "circle",
+      "tjNodeState": "note-3d",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#010148",
+        "lineWidth": 1
+      },
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "x": 134.38074515833577,
+      "y": 79.52219601893316,
+      "depth": 0,
+      "layoutOrder": 0,
+      "mass": 2
+    },
+    {
+      "id": "62d934001b6cae2be8a1fd4a",
+      "label": "Welcome to",
+      "description": "Welcome to <b>NISCHAY</b> SOFT",
+      "tjType": "note-text",
+      "tjData": {
+        "content": "Welcome to <b>NISCHAY</b> SOFT",
+        "url": "https://prdnischaysoft.bih.nic.in/nischaysoft/WardProfileUpdatedReport.aspx"
+      },
+      "tjNodeState": "note-text",
+      "size": "20",
+      "style": {
+        "active": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10
+        },
+        "selected": {
+          "fill": "rgb(255, 255, 255)",
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 4,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "fill": "rgb(223, 234, 255)",
+          "stroke": "#4572d9",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": {
+          "fill": "rgb(247, 250, 255)",
+          "stroke": "rgb(191, 213, 255)",
+          "lineWidth": 1
+        },
+        "disable": {
+          "fill": "rgb(250, 250, 250)",
+          "stroke": "rgb(224, 224, 224)",
+          "lineWidth": 1
+        },
+        "searchEd": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "opacityO": { "opacity": 0.1 },
+        "lockedState": {
+          "stroke": "#0B5E39",
+          "fill": "#00000000",
+          "lineWidth": 1,
+          "shadowColor": "#0B5E39",
+          "shadowBlur": 17,
+          "opacity": 1
+        },
+        "searchRelatedEd": {
+          "stroke": "#fff",
+          "fill": "#0fa",
+          "lineWidth": 1,
+          "shadowColor": "#0fa",
+          "shadowBlur": 10
+        },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "relatedEd": {
+          "stroke": "#010148",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 1
+        },
+        "spNode": {
+          "size": "100",
+          "fill": "#fce181",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#010148",
+          "shadowBlur": 3
+        },
+        "current_ent": {
+          "stroke": "#fdc400",
+          "fill": "#010148",
+          "lineWidth": 1,
+          "shadowColor": "#fdc400",
+          "shadowBlur": 2
+        },
+        "tjNodeState:wikilink": {},
+        "tjNodeState:custom-node": {
+          "size": [200],
+          "stroke": "#fff",
+          "fill": "#659dbd",
+          "lineWidth": 1,
+          "shadowColor": "#659dbd",
+          "shadowBlur": 10,
+          "node-label": {
+            "position": "top",
+            "offset": 2,
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": 500,
+            "fontFamily": "Poppins"
+          }
+        },
+        "tjNodeState:note-text": { "fill": "#8a661e", "stroke": "#888" },
+        "tjNodeState:note-image": {
+          "node-label": { "position": "bottom" },
+          "clipCfg": { "show": true, "type": "circle", "r": 25 }
+        },
+        "tjNodeState:note-recording": { "fill": "#00ff95", "stroke": "#888" },
+        "tjNodeState:note-3d": { "fill": "#fce181", "stroke": "#888" },
+        "tjNodeState:note-page": { "fill": "#8c00ff", "stroke": "#888" },
+        "tjNodeState:note-video": { "fill": "#cf0433", "stroke": "#888" },
+        "tjNodeState:user": { "fill": "#b3fff9", "stroke": "#888" },
+        "stroke": "#010148",
+        "lineWidth": 1
+      },
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "type": "circle",
+      "x": 201.5488770508573,
+      "y": 181.8903884466831,
+      "depth": 0,
+      "layoutOrder": 0,
+      "mass": 2
+    }
+  ],
+  "edges": [
+    {
+      "source": "sunday",
+      "target": "Sundae",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.140802066488178171664262310516",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 }
+      },
+      "startPoint": { "x": 500.6877419465939, "y": 238.53849129472124 },
+      "endPoint": { "x": 478.68202496272363, "y": 177.27522079846554 },
+      "depth": 0
+    },
+    {
+      "source": "sunday",
+      "target": "Day",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.96128615158634711664262310518",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 }
+      },
+      "startPoint": { "x": 517.9791161503165, "y": 240.1428100641345 },
+      "endPoint": { "x": 550.3925691929671, "y": 184.80664635142367 },
+      "depth": 0
+    },
+    {
+      "source": "sunday",
+      "target": "Week",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.64917760536930351664262310519",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 }
+      },
+      "startPoint": { "x": 488.14789135895967, "y": 251.4150455903609 },
+      "endPoint": { "x": 432.6837965850759, "y": 233.1361567798291 },
+      "depth": 0
+    },
+    {
+      "source": "sunday",
+      "target": "Saturday",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.9756543235308391664262310519",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 }
+      },
+      "startPoint": { "x": 522.2557611822702, "y": 272.1836208527983 },
+      "endPoint": { "x": 566.2060474958906, "y": 315.27540272979456 },
+      "depth": 0
+    },
+    {
+      "source": "sunday",
+      "target": "Monday",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.374357461989692331664262310520",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 }
+      },
+      "startPoint": { "x": 527.9117069827889, "y": 254.93197886174607 },
+      "endPoint": { "x": 588.7036979312433, "y": 246.24592425047922 },
+      "depth": 0
+    },
+    {
+      "source": "sunday",
+      "target": "ISO 8601",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.117559041845348271664262310520",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 }
+      },
+      "startPoint": { "x": 490.6522832223553, "y": 269.3390278195463 },
+      "endPoint": { "x": 437.31932775452015, "y": 305.5138520515144 },
+      "depth": 0
+    },
+    {
+      "source": "sunday",
+      "target": "Máni",
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.6125922040651671664262310521",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 }
+      },
+      "startPoint": { "x": 505.57170815882836, "y": 278.22923599698424 },
+      "endPoint": { "x": 499.12672480404547, "y": 342.4793601880154 },
+      "depth": 0
+    },
+    {
+      "source": "nischay.s.ed",
+      "target": "YH39WQyLmzM",
+      "label": "has noted",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 },
+        "endArrow": true
+      },
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.72410824689342211664262332624",
+      "startPoint": { "x": 118.48981083353223, "y": 172.13537359884168 },
+      "endPoint": { "x": 95.91819055383776, "y": 195.95119437736662 },
+      "depth": 0
+    },
+    {
+      "source": "nischay.s.ed",
+      "target": "63329ce499d9023da452c0b5",
+      "label": "has noted",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 },
+        "endArrow": true
+      },
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.12584867291369851664262354026",
+      "startPoint": { "x": 135.46333848658048, "y": 128.13349618204145 },
+      "endPoint": { "x": 134.72585086079457, "y": 95.0183536734658 },
+      "depth": 0
+    },
+    {
+      "source": "nischay.s.ed",
+      "target": "62d934001b6cae2be8a1fd4a",
+      "label": "has noted",
+      "style": {
+        "active": { "stroke": "rgb(95, 149, 255)", "lineWidth": 1 },
+        "selected": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "shadowColor": "rgb(95, 149, 255)",
+          "shadowBlur": 10,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "highlight": {
+          "stroke": "rgb(95, 149, 255)",
+          "lineWidth": 2,
+          "text-shape": { "fontWeight": 500 }
+        },
+        "inactive": { "stroke": "rgb(234, 234, 234)", "lineWidth": 1 },
+        "disable": { "stroke": "rgb(245, 245, 245)", "lineWidth": 1 },
+        "focusEd": {
+          "stroke": "#fff",
+          "fill": "#fce181",
+          "opacity": 0.6,
+          "lineWidth": 1,
+          "shadowColor": "#fce181",
+          "shadowBlur": 1
+        },
+        "spEdge": {
+          "fill": "#010148",
+          "opacity": 1,
+          "lineWidth": 4,
+          "shadowColor": "#fff",
+          "shadowBlur": 3
+        },
+        "relatedEd": {
+          "stroke": "#fff",
+          "fill": "#fff",
+          "opacity": 1,
+          "lineWidth": 1,
+          "shadowColor": "#fff",
+          "shadowBlur": 1
+        },
+        "opacityO": { "opacity": 0.1 },
+        "endArrow": true
+      },
+      "labelCfg": {
+        "position": "top",
+        "color": "#fff",
+        "style": {
+          "fontSize": 15,
+          "fill": "#fff",
+          "fontWeight": 500,
+          "fontFamily": "Poppins",
+          "color": "#fff",
+          "opacity": 1
+        }
+      },
+      "id": "edge-0.50933172098652961664262359957",
+      "startPoint": { "x": 159.4453957671649, "y": 163.72769109385672 },
+      "endPoint": { "x": 191.9076935705745, "y": 177.73135236851277 },
+      "depth": 0
+    }
+  ],
+  "combos": []
+}

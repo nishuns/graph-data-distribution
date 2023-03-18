@@ -1,0 +1,177 @@
+{
+  "id": "sunday",
+  "label": "sunday",
+  "type": "circle",
+  "size": 40,
+  "style": {
+    "active": {
+      "fill": "rgb(247, 250, 255)",
+      "stroke": "rgb(95, 149, 255)",
+      "lineWidth": 2,
+      "shadowColor": "rgb(95, 149, 255)",
+      "shadowBlur": 10
+    },
+    "selected": {
+      "fill": "rgb(255, 255, 255)",
+      "stroke": "rgb(95, 149, 255)",
+      "lineWidth": 4,
+      "shadowColor": "rgb(95, 149, 255)",
+      "shadowBlur": 10,
+      "text-shape": {
+        "fontWeight": 500
+      }
+    },
+    "highlight": {
+      "fill": "rgb(223, 234, 255)",
+      "stroke": "#4572d9",
+      "lineWidth": 2,
+      "text-shape": {
+        "fontWeight": 500
+      }
+    },
+    "inactive": {
+      "fill": "rgb(247, 250, 255)",
+      "stroke": "rgb(191, 213, 255)",
+      "lineWidth": 1
+    },
+    "disable": {
+      "fill": "rgb(250, 250, 250)",
+      "stroke": "rgb(224, 224, 224)",
+      "lineWidth": 1
+    },
+    "searchEd": {
+      "size": [
+        200
+      ],
+      "stroke": "#fff",
+      "fill": "#0fa",
+      "lineWidth": 1,
+      "shadowColor": "#0fa",
+      "shadowBlur": 10
+    },
+    "opacityO": {
+      "opacity": 0.1
+    },
+    "lockedState": {
+      "stroke": "#0B5E39",
+      "fill": "#00000000",
+      "lineWidth": 1,
+      "shadowColor": "#0B5E39",
+      "shadowBlur": 17,
+      "opacity": 1
+    },
+    "searchRelatedEd": {
+      "stroke": "#fff",
+      "fill": "#0fa",
+      "lineWidth": 1,
+      "shadowColor": "#0fa",
+      "shadowBlur": 10
+    },
+    "focusEd": {
+      "stroke": "#fff",
+      "fill": "#010148",
+      "opacity": 1,
+      "lineWidth": 1,
+      "shadowColor": "#fff",
+      "shadowBlur": 1
+    },
+    "relatedEd": {
+      "stroke": "#010148",
+      "fill": "#fce181",
+      "opacity": 1,
+      "lineWidth": 1,
+      "shadowColor": "#010148",
+      "shadowBlur": 1
+    },
+    "spNode": {
+      "size": "100",
+      "fill": "#fce181",
+      "opacity": 1,
+      "lineWidth": 1,
+      "shadowColor": "#010148",
+      "shadowBlur": 3
+    },
+    "current_ent": {
+      "stroke": "#fdc400",
+      "fill": "#010148",
+      "lineWidth": 1,
+      "shadowColor": "#fdc400",
+      "shadowBlur": 2
+    },
+    "tjNodeState:wikilink": {},
+    "tjNodeState:custom-node": {
+      "size": [
+        200
+      ],
+      "stroke": "#fff",
+      "fill": "#659dbd",
+      "lineWidth": 1,
+      "shadowColor": "#659dbd",
+      "shadowBlur": 10,
+      "node-label": {
+        "position": "top",
+        "offset": 2,
+        "fontSize": 15,
+        "fill": "#fff",
+        "fontWeight": 500,
+        "fontFamily": "Poppins"
+      }
+    },
+    "tjNodeState:note-text": {
+      "fill": "#8a661e",
+      "stroke": "#888"
+    },
+    "tjNodeState:note-image": {
+      "node-label": {
+        "position": "bottom"
+      },
+      "clipCfg": {
+        "show": true,
+        "type": "circle",
+        "r": 25
+      }
+    },
+    "tjNodeState:note-recording": {
+      "fill": "#00ff95",
+      "stroke": "#888"
+    },
+    "tjNodeState:note-3d": {
+      "fill": "#fce181",
+      "stroke": "#888"
+    },
+    "tjNodeState:note-page": {
+      "fill": "#8c00ff",
+      "stroke": "#888"
+    },
+    "tjNodeState:note-video": {
+      "fill": "#cf0433",
+      "stroke": "#888"
+    },
+    "tjNodeState:user": {
+      "fill": "#b3fff9",
+      "stroke": "#888"
+    },
+    "stroke": "#333",
+    "lineWidth": 1,
+    "fill": "#fff"
+  },
+  "tjType": "wikiLinks",
+  "cluster": "sunday",
+  "labelCfg": {
+    "position": "top",
+    "color": "#fff",
+    "style": {
+      "fontSize": 15,
+      "fill": "#fff",
+      "fontWeight": 500,
+      "fontFamily": "Poppins",
+      "color": "#fff",
+      "opacity": 1
+    }
+  },
+  "depth": 0,
+  "x": 507.6178117462937,
+  "y": 257.8316023080153,
+  "layoutOrder": 0,
+  "mass": 2
+}
