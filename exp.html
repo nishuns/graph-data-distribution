@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph Experiments</title>
+    <style>
+        *,*::before,*::after {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        #app {
+            width: 100%;
+            height: 100vh;
+            background: #eeeeee;
+            display: flex;
+            justify-content: center;
+
+        }
+
+        .box {
+            width: 100px;
+            height: 100px;
+            border-radius: 10px;
+            background: red;
+            margin: 2rem;
+        }
+
+        .box-shape__circle {
+            border-radius: 50%;
+        }
+        .box-shape__oval {
+            width: 200px;
+            border-radius: 50%;
+        }
+
+        .box-shape__rect {
+            border-radius: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <div class="box box-shape__circle"></div>
+        <div class="box box-shape__oval"></div>
+        <div class="box box-shape__rect"></div>
+    </div>
+    <script>
+        const app = document.getElementById("app");
+        const boxData = [
+            {
+                id: 1,
+                shape: 'oval',
+            },
+            {
+                id: 2,
+                shape: 'rect',
+            },
+            {
+                id: 3,
+                shape: 'circle',
+            },
+            {
+                id: 4,
+                shape: 'rect',
+            },
+            {
+                id: 5,
+                shape: 'oval',
+            },
+            {
+                id: 6,
+                shape: 'circle',
+            }
+            
+        ];
+
+        
+        const choosington = (myShape) => {
+            const shapes = ["rect", "circle", "oval"];
+            switch(myShape) {
+                shapes.forEach((shape) => {
+                    case shape: {
+                        return `box-shape__${shape}`;
+                    }
+                })
+            }
+        }
+    </script>
+</body>
+</html>
